@@ -17,7 +17,7 @@ This Google Cast demo app shows how to cast videos from a Chrome browser using C
  2. Use the default media receiver app: no change or change YOUR_APP_ID to your own in helloVideos.js
  4. Open a browser and point to your page at http://[YOUR_SERVER_LOCATION]/helloVideos/index.html
 
-##Documentation
+## Documentation
 * Cast APIs: http://developers.google.com/cast/docs/chrome_sender
 
 ## References and How to report bugs
